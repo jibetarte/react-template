@@ -21,9 +21,9 @@
         @tailwind utilities;
 5) Instalar react router
     `npm install react-router-dom`
-6) - Instalar axios
+6) Instalar axios
     `npm install axios`
-7) - Instalar react query
+7) Instalar react query
     `npm i react-query`
 
 TIPS
