@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# React template
 
-## Template de React con el siguiente stack
+## Inlcuye el siguiente stack
 - Vite
 - Typescript
 - Tailwindcss
@@ -8,6 +8,18 @@
 - React query
 - Axios
 
+## Ejemplos
+Trae algunos componentes de ejemplo:
+- Parte del ruteo hecho.
+- Pagina de Home.
+- Pagina de Login, con un POST request.
+- Pagina de prueba, con un GET request.
+
+## Crear template manual sin codigo de ejemplo
+[Guia de instalación](./INSTALLATION_GUIDE.md)
+
+## Instalar dependencias
+npm install
 
 ## Start server
 npm run dev
